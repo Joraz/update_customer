@@ -1,0 +1,13 @@
+{
+    "name": "update_sf_customer",
+    "author": {
+        "name": "Dan Young"
+    },
+    "dependencies": {
+       "mongodb": "~2.0.45"
+    },
+    "main": "./update_sf_customer.js",
+    "scripts": {
+        "start": "node update_sf_customer.js"
+    }
+}
