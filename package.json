@@ -9,5 +9,6 @@
     "main": "./update_sf_customer.js",
     "scripts": {
         "start": "node update_sf_customer.js"
-    }
+    },
+    "version": "0.0.1"
 }
